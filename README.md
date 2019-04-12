@@ -1,5 +1,4 @@
 
-|Python Support|
 
 Project Euler
 ~~~~~~~~~~~~
