@@ -133,6 +133,19 @@ while(len(squaredList) > 3 ):
     squaredList.pop(0)'''
 
 
-    
+#problem 10 Summation of Primes
+'''firstPrime = 2
+nextNum = 3
+arr = [2]
+primeSum = 2
+
+for i in range(3,2000000):
+    primeSum += i
+    for j in arr:
+        if(i % j == 0):
+            primeSum -= i
+            break
+    arr.append(i)
+print(primeSum)'''
    
 
